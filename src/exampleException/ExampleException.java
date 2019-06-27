@@ -40,7 +40,7 @@ public class ExampleException {
             throw new IllegalArgumentException("Wprowadzona liczba musi być większa od 0 !");
         }
         if(index >= strings.length){
-            throw new IllegalArgumentException("Wprowadzona liczba musi być mniwjsza od " + strings.length + " !");
+            throw new IllegalArgumentException("Wprowadzona liczba musi być mniejsza od " + strings.length + " !");
         }
         return index;
     }
