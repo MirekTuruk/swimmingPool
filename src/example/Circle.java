@@ -1,4 +1,4 @@
-package example.shapes;
+package example;
 
 import inheritance.EColor;
 
