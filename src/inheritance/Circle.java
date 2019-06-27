@@ -1,6 +1,7 @@
-package example;
+package inheritance;
 
-import inheritance.EColor;
+import example.AbstractShape;
+import example.EColor;
 
 public class Circle extends AbstractShape {
 

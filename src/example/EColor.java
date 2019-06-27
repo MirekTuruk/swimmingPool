@@ -1,4 +1,4 @@
-package inheritance;
+package example;
 
 public enum  EColor {
 

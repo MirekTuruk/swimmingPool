@@ -1,6 +1,6 @@
 package inheritance;
 
-import example.AbstractShape;
+import example.EColor;
 
 public class Sqare extends Rectangle {
 

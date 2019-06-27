@@ -1,6 +1,7 @@
 package inheritance;
 
 import example.AbstractShape;
+import example.EColor;
 
 public class Rectangle extends AbstractShape {
 

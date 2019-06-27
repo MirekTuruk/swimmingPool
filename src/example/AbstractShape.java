@@ -1,7 +1,5 @@
 package example;
 
-import inheritance.EColor;
-
 public abstract class AbstractShape {
 
 protected EColor color;
