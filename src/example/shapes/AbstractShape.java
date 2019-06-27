@@ -1,6 +1,6 @@
 package example.shapes;
 
-import example.EColor;
+import inheritance.EColor;
 
 public abstract class AbstractShape {
 
