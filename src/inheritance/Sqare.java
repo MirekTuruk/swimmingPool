@@ -5,8 +5,8 @@ import example.EColor;
 public class Sqare extends Rectangle {
 
 
-    public Sqare(EColor color, double a, double b) {
-        super(color, a, b);
+    public Sqare( double a, EColor color) {
+        super( a, a, color);
     }
 
     @Override

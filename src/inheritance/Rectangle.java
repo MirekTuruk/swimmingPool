@@ -7,7 +7,7 @@ public class Rectangle extends AbstractShape {
 
     double a, b;
 
-    public Rectangle(EColor color, double a, double b) {
+    public Rectangle(double a, double b, EColor color) {
         super(color);
         this.a = a;
         this.b = b;

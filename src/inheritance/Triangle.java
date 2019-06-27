@@ -7,7 +7,7 @@ public class Triangle extends AbstractShape {
 
     private double a, b, c;
 
-    public Triangle(EColor color, double a, double b, double c) {
+    public Triangle( double a, double b, double c, EColor color) {
         super(color);
         this.a = a;
         this.b = b;

@@ -7,7 +7,7 @@ public class Circle extends AbstractShape {
 
     private double radius;
 
-    public Circle(EColor color, double radius) {
+    public Circle(double radius, EColor color) {
         super(color);
         this.radius = radius;
     }
